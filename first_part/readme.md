@@ -1,5 +1,3 @@
-# Project 2024 - Data Processing and Visualization in Python
-
 ## Overview
 This script processes data and generates visualizations using Python. It includes four main functions:
 
