@@ -57,3 +57,5 @@ This script analyzes traffic accident data and generates tables, visualizations,
 # doc.pdf
 A report summarizing accident statistics in the Czech Republic.
 
+# stat.ipynb
+This Jupyter Notebook explores traffic accident data using Python's data science ecosystem, including `pandas`, `seaborn`, and `matplotlib`.
